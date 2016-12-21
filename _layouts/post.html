@@ -12,6 +12,9 @@ layout: default
   <section class="post">
     {{ content }}
   </section>
+  <section>
+    <a rel="back" class="posts btn small" href="{{ site.baseurl }}#blog">← Back</a>
+  </section>
   {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
 </article>
 {% if page.comments != false %}{% include disqus.html %}{% endif %}
