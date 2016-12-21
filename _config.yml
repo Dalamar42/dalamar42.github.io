@@ -1,7 +1,7 @@
 # Site settings
 title: 'Thomas Maroulis'
 description: 'I am a software team lead in London'
-description2: 'Also, tinkerer, sci-fi literature reader, space geek, general geek, etc.'
+description2: 'Also tinkerer, sci-fi literature reader, space geek, general geek, etc.'
 url: 'https://dalamar42.github.io'
 baseurl: '/'
 # enforce_ssl: ''
