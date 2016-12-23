@@ -5,8 +5,7 @@ description2: 'Also foodie, sci-fi literature reader, space geek, general geek, 
 url: 'https://www.thomasmaroulis.com'
 enforce_ssl: 'www.thomasmaroulis.com'
 baseurl: '/'
-# enforce_ssl: ''
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-89411902-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
